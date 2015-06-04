@@ -59,7 +59,7 @@ sex <- function(alist) {
 }
 
 
-#sex(c("143B","MONOMAC6","aaa","bbb"))
+##sex(c("143B","MONOMAC6","aaa","bbb"))
 
 #####################################################################################################
 # cross check both CCLE and SRA database and create a new table with known gender information 
